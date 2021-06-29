@@ -14,8 +14,8 @@ To find the check digit, x, the total of the digits (from the third row) is comp
 
 
 
-||7|	9 |	9|2|	7|	3	|9|	8	|7|	1	|x|
+||7|	9 |	9|2|7|	3	|9|	8	|7|	1	|x|
 -:|:-:|:-:|-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-Double every other	|7|	**18**|	9|	**4**|	7|	**6**	|9|	**16**|	7	|**2**|	x|
+|Double every other	|7|	**18**|	9|	**4**|	7|	**6**	|9|	**16**|	7	|**2**|	x|
 Sum digits|	7|	9 (1+8)	|9|	4|	7|	6	|9|	7 (1+6)|	7|	2|	x|
 
